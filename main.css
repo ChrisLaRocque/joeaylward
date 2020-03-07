@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url("sexyjoe.jpg");
+  background-size: cover;
+  background-position: top;
+  color: white;
+  font-family: 'Rubik Mono One', sans-serif;
+}
+
+body div.container {
+  margin-top: 10vh;
+}
+
+body div.container h1 {
+  font-size: 9vh;
+}
+
+body div.container h2 {
+  margin-top: 65vh;
+}
+/*# sourceMappingURL=main.css.map */
